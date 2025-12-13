@@ -1,12 +1,12 @@
 # Hi 👋, I'm Sourav Singha
 
-### A Passionate Java Developer
+### A Passionate Java Developer 😎
 
-- 🌱 I'm currently learning **HTML, CSS & JS with Java for DSA!**
+- 🌱 I'm currently learning **Full Stack Web Dev and Mastering DSA in Java.**
 
 - 📫 How to reach me **sourav.worklife@gmail.com**
 
-- ⚡ Fun fact **Funny!**
+- ⚡ Fun fact **I love coding with coffee and chocolates ☕🍫**
 
 - 👨‍💻 All of my projects are available at **[https://www.sourav.one](https://www.sourav.one)**
 
