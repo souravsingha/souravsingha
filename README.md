@@ -1,20 +1,85 @@
-# Hi 👋, I'm Sourav Singha
+# Hi 👋, I'm **Sourav Singha**
 
-### A Passionate Java Developer 😎
+### 🚀 Full Stack Developer | Java Learner | DSA in C++
 
-- 🌱 I'm currently learning **Full Stack Web Dev and Mastering DSA in Java.**
+* 🌱 Currently learning **Full Stack Web Development** and **Java**
+* 🧠 Practicing **Data Structures & Algorithms in C++**
+* 💻 Passionate about building **scalable and real-world web applications**
+* 📫 Reach me at **[souravsingha.tech@gmail.com](mailto:souravsingha.tech@gmail.com)**
+* ⚡ Fun fact: **I love coding with coffee and chocolates ☕🍫**
+* 👨‍💻 Check out my projects: **[www.sourav.one](https://www.sourav.one)**
 
-- 📫 How to reach me **sourav.worklife@gmail.com**
+---
 
-- ⚡ Fun fact **I love coding with coffee and chocolates ☕🍫**
+### 🤝 Connect With Me
 
-- 👨‍💻 All of my projects are available at **[https://www.sourav.one](https://www.sourav.one)**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/souravsingha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="souravsingha" height="30" width="40" /></a>
+  <a href="https://github.com/souravsingha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+---
 
+### 🛠️ Tech Stack
+
+#### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" height="45" alt="Programming Languages"/>
+</p>
+
+#### 🧠 DSA & Problem Solving
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++"/>
+</p>
+
+**Currently practicing:** Arrays • Strings • Linked Lists • Stacks • Queues • Trees • Graphs • Recursion • Sorting • Searching • Dynamic Programming
+
+#### 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,redux,nextjs" height="45" alt="Frontend"/>
+</p>
+
+#### ⚙️ Backend & Frameworks
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django" height="45" alt="Backend"/>
+</p>
+
+#### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" height="45" alt="Databases"/>
+</p>
+
+#### ☁️ Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,aws,docker,linux,postman,kubernetes,kafka" height="45" alt="Tools"/>
+</p>
+
+---
+
+### 🚀 Currently Learning
+
+* ☕ **Java & Object-Oriented Programming**
+* 🧠 **DSA & Competitive Programming with C++**
+* 🌐 **Full Stack Web Development**
+* ⚛️ **React & Node.js**
+* 🗄️ **Databases & Backend Development**
+* 🏗️ **System Design & Software Architecture**
+
+---
+
+### 💡 What I Love Building
+
+> Turning ideas into practical software solutions and continuously improving my problem-solving skills through DSA.
+
+---
+
+<p align="center">
+  <b>✨ Learn • Build • Solve • Improve ✨</b>
+</p>
